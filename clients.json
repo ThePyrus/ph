@@ -2,7 +2,7 @@
   "clients": [
     {
       "id": "CM-Pack",
-      "name": "CM Pack Cllient",
+      "name": "CM Pack Client",
       "description": "",
       "mcVersion": "1.8.9",
       "version": "",
