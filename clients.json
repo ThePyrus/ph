@@ -9,7 +9,7 @@
       "url": "https://www.mediafire.com/file/aay4pakx5rs07cf/cmpack_1.8.8.zip/file",
       "size": 0,
       "sha256": "",
-      "icon": "https://www.mediafire.com/file/hxctqqcytvpojo6/cm.png",
+      "icon": "https://raw.githubusercontent.com/ThePyrus/ph/main/cm.png",
       "website": "https://cm-pack.pl",
       "requires": "1.8.9"
     }
