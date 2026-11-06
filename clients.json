@@ -2,10 +2,10 @@
   "clients": [
     {
       "id": "CM-Pack",
-      "name": "CM Pack",
-      "description": "CM Pack Client For Minecraft 1.8.9",
+      "name": "CM Pack Cllient",
+      "description": "",
       "mcVersion": "1.8.9",
-      "version": "1.0",
+      "version": "",
       "url": "https://www.mediafire.com/file/aay4pakx5rs07cf/cmpack_1.8.8.zip/file",
       "size": 0,
       "sha256": "",
