@@ -1,0 +1,17 @@
+{
+  "clients": [
+    {
+      "id": "CM-Pack",
+      "name": "CM Pack Client",
+      "description": "",
+      "mcVersion": "1.8.9",
+      "version": "",
+      "url": "https://www.mediafire.com/file/aay4pakx5rs07cf/cmpack_1.8.8.zip/file",
+      "size": 0,
+      "sha256": "",
+      "icon": "https://my.uploadkon.ir/d/ZmTIN0l31Di6BcQVXIa54cDz9os3bi/MTEwMDk0fHBhZA.png",
+      "website": "",
+      "requires": "1.8.9"
+    }
+  ]
+}
